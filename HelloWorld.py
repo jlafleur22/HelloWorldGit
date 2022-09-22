@@ -1,0 +1,1 @@
+print("Hello, World!") #simple command to print out the words in the quotations
