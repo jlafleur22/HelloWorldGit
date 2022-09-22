@@ -8,7 +8,7 @@ This code is simple so that the focus can be on learning to create, integrate, a
 2. Code to Github
 3. Videos to youtube
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/6cuYfdxkx1o)
 
 # Development Environment
 
