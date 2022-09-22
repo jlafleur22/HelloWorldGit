@@ -12,7 +12,7 @@ This code is simple so that the focus can be on learning to create, integrate, a
 
 # Development Environment
 
-* Visual Studio Code.
+* Visual Studio Code
 * MS-Python.Python version 3.10.1
 * git
 * github
